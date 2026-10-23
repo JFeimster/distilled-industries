@@ -1,0 +1,698 @@
+[
+  {
+    "id": "home",
+    "route": "/",
+    "pageType": "home",
+    "title": "Industry Finder"
+  },
+  {
+    "id": "construction",
+    "route": "/construction",
+    "pageType": "sector",
+    "title": "Construction & Trades"
+  },
+  {
+    "id": "transportation",
+    "route": "/transportation",
+    "pageType": "sector",
+    "title": "Transportation & Logistics"
+  },
+  {
+    "id": "healthcare",
+    "route": "/healthcare",
+    "pageType": "sector",
+    "title": "Healthcare & Medical"
+  },
+  {
+    "id": "restaurants",
+    "route": "/restaurants",
+    "pageType": "sector",
+    "title": "Restaurants & Food Service"
+  },
+  {
+    "id": "retail",
+    "route": "/retail",
+    "pageType": "sector",
+    "title": "Retail & Consumer Services"
+  },
+  {
+    "id": "ecommerce",
+    "route": "/ecommerce",
+    "pageType": "sector",
+    "title": "Ecommerce & Marketplace Sellers"
+  },
+  {
+    "id": "professional-services",
+    "route": "/professional-services",
+    "pageType": "sector",
+    "title": "Professional Services"
+  },
+  {
+    "id": "home-services",
+    "route": "/home-services",
+    "pageType": "sector",
+    "title": "Home & Property Services"
+  },
+  {
+    "id": "manufacturing",
+    "route": "/manufacturing",
+    "pageType": "sector",
+    "title": "Manufacturing & Industrial"
+  },
+  {
+    "id": "automotive",
+    "route": "/automotive",
+    "pageType": "sector",
+    "title": "Automotive & Mobility"
+  },
+  {
+    "id": "agriculture",
+    "route": "/agriculture",
+    "pageType": "sector",
+    "title": "Agriculture & Field Operations"
+  },
+  {
+    "id": "hospitality",
+    "route": "/hospitality",
+    "pageType": "sector",
+    "title": "Hospitality & Travel"
+  },
+  {
+    "id": "beauty-wellness",
+    "route": "/beauty-wellness",
+    "pageType": "sector",
+    "title": "Beauty, Wellness & Fitness"
+  },
+  {
+    "id": "education-childcare",
+    "route": "/education-childcare",
+    "pageType": "sector",
+    "title": "Education, Childcare & Community"
+  },
+  {
+    "id": "real-estate",
+    "route": "/real-estate",
+    "pageType": "sector",
+    "title": "Real Estate & Property Operators"
+  },
+  {
+    "id": "construction-contractors",
+    "route": "/construction/contractors",
+    "pageType": "industry",
+    "title": "Contractors"
+  },
+  {
+    "id": "construction-general-contractors",
+    "route": "/construction/general-contractors",
+    "pageType": "industry",
+    "title": "General Contractors"
+  },
+  {
+    "id": "construction-hvac",
+    "route": "/construction/hvac",
+    "pageType": "industry",
+    "title": "HVAC Companies"
+  },
+  {
+    "id": "construction-plumbing",
+    "route": "/construction/plumbing",
+    "pageType": "industry",
+    "title": "Plumbing Companies"
+  },
+  {
+    "id": "construction-electrical-contractors",
+    "route": "/construction/electrical-contractors",
+    "pageType": "industry",
+    "title": "Electrical Contractors"
+  },
+  {
+    "id": "construction-roofing",
+    "route": "/construction/roofing",
+    "pageType": "industry",
+    "title": "Roofing Companies"
+  },
+  {
+    "id": "construction-concrete-masonry",
+    "route": "/construction/concrete-masonry",
+    "pageType": "industry",
+    "title": "Concrete & Masonry"
+  },
+  {
+    "id": "construction-excavation-sitework",
+    "route": "/construction/excavation-sitework",
+    "pageType": "industry",
+    "title": "Excavation & Sitework"
+  },
+  {
+    "id": "construction-remodeling-renovation",
+    "route": "/construction/remodeling-renovation",
+    "pageType": "industry",
+    "title": "Remodeling & Renovation"
+  },
+  {
+    "id": "construction-commercial-construction",
+    "route": "/construction/commercial-construction",
+    "pageType": "industry",
+    "title": "Commercial Construction"
+  },
+  {
+    "id": "transportation-trucking-companies",
+    "route": "/transportation/trucking-companies",
+    "pageType": "industry",
+    "title": "Trucking Companies"
+  },
+  {
+    "id": "transportation-owner-operators",
+    "route": "/transportation/owner-operators",
+    "pageType": "industry",
+    "title": "Owner-Operators"
+  },
+  {
+    "id": "transportation-freight-brokers",
+    "route": "/transportation/freight-brokers",
+    "pageType": "industry",
+    "title": "Freight Brokers"
+  },
+  {
+    "id": "transportation-logistics-companies",
+    "route": "/transportation/logistics-companies",
+    "pageType": "industry",
+    "title": "Logistics Companies"
+  },
+  {
+    "id": "transportation-delivery-courier",
+    "route": "/transportation/delivery-courier",
+    "pageType": "industry",
+    "title": "Delivery & Courier Services"
+  },
+  {
+    "id": "transportation-moving-companies",
+    "route": "/transportation/moving-companies",
+    "pageType": "industry",
+    "title": "Moving Companies"
+  },
+  {
+    "id": "transportation-towing-companies",
+    "route": "/transportation/towing-companies",
+    "pageType": "industry",
+    "title": "Towing Companies"
+  },
+  {
+    "id": "healthcare-medical-practices",
+    "route": "/healthcare/medical-practices",
+    "pageType": "industry",
+    "title": "Medical Practices"
+  },
+  {
+    "id": "healthcare-dental-practices",
+    "route": "/healthcare/dental-practices",
+    "pageType": "industry",
+    "title": "Dental Practices"
+  },
+  {
+    "id": "healthcare-chiropractors",
+    "route": "/healthcare/chiropractors",
+    "pageType": "industry",
+    "title": "Chiropractic Practices"
+  },
+  {
+    "id": "healthcare-physical-therapy",
+    "route": "/healthcare/physical-therapy",
+    "pageType": "industry",
+    "title": "Physical Therapy Clinics"
+  },
+  {
+    "id": "healthcare-home-health-care",
+    "route": "/healthcare/home-health-care",
+    "pageType": "industry",
+    "title": "Home Health Care Agencies"
+  },
+  {
+    "id": "healthcare-behavioral-health",
+    "route": "/healthcare/behavioral-health",
+    "pageType": "industry",
+    "title": "Behavioral Health Practices"
+  },
+  {
+    "id": "healthcare-veterinary-clinics",
+    "route": "/healthcare/veterinary-clinics",
+    "pageType": "industry",
+    "title": "Veterinary Clinics"
+  },
+  {
+    "id": "healthcare-medical-spas",
+    "route": "/healthcare/medical-spas",
+    "pageType": "industry",
+    "title": "Medical Spas"
+  },
+  {
+    "id": "restaurants-restaurants",
+    "route": "/restaurants/restaurants",
+    "pageType": "industry",
+    "title": "Restaurants"
+  },
+  {
+    "id": "restaurants-food-trucks",
+    "route": "/restaurants/food-trucks",
+    "pageType": "industry",
+    "title": "Food Trucks"
+  },
+  {
+    "id": "restaurants-bars-nightlife",
+    "route": "/restaurants/bars-nightlife",
+    "pageType": "industry",
+    "title": "Bars & Nightlife"
+  },
+  {
+    "id": "restaurants-cafes-coffee-shops",
+    "route": "/restaurants/cafes-coffee-shops",
+    "pageType": "industry",
+    "title": "Cafes & Coffee Shops"
+  },
+  {
+    "id": "restaurants-catering-companies",
+    "route": "/restaurants/catering-companies",
+    "pageType": "industry",
+    "title": "Catering Companies"
+  },
+  {
+    "id": "restaurants-bakeries",
+    "route": "/restaurants/bakeries",
+    "pageType": "industry",
+    "title": "Bakeries"
+  },
+  {
+    "id": "restaurants-food-service-franchises",
+    "route": "/restaurants/food-service-franchises",
+    "pageType": "industry",
+    "title": "Food-Service Franchises"
+  },
+  {
+    "id": "retail-retail-stores",
+    "route": "/retail/retail-stores",
+    "pageType": "industry",
+    "title": "Retail Stores"
+  },
+  {
+    "id": "retail-grocery-markets",
+    "route": "/retail/grocery-markets",
+    "pageType": "industry",
+    "title": "Grocery & Specialty Markets"
+  },
+  {
+    "id": "retail-apparel-boutiques",
+    "route": "/retail/apparel-boutiques",
+    "pageType": "industry",
+    "title": "Apparel Boutiques"
+  },
+  {
+    "id": "retail-specialty-retail",
+    "route": "/retail/specialty-retail",
+    "pageType": "industry",
+    "title": "Specialty Retail"
+  },
+  {
+    "id": "retail-laundromats",
+    "route": "/retail/laundromats",
+    "pageType": "industry",
+    "title": "Laundromats"
+  },
+  {
+    "id": "retail-dry-cleaners",
+    "route": "/retail/dry-cleaners",
+    "pageType": "industry",
+    "title": "Dry Cleaners"
+  },
+  {
+    "id": "ecommerce-amazon-sellers",
+    "route": "/ecommerce/amazon-sellers",
+    "pageType": "industry",
+    "title": "Amazon Sellers"
+  },
+  {
+    "id": "ecommerce-shopify-stores",
+    "route": "/ecommerce/shopify-stores",
+    "pageType": "industry",
+    "title": "Shopify Stores"
+  },
+  {
+    "id": "ecommerce-walmart-sellers",
+    "route": "/ecommerce/walmart-sellers",
+    "pageType": "industry",
+    "title": "Walmart Marketplace Sellers"
+  },
+  {
+    "id": "ecommerce-ebay-sellers",
+    "route": "/ecommerce/ebay-sellers",
+    "pageType": "industry",
+    "title": "eBay Sellers"
+  },
+  {
+    "id": "ecommerce-etsy-sellers",
+    "route": "/ecommerce/etsy-sellers",
+    "pageType": "industry",
+    "title": "Etsy Sellers"
+  },
+  {
+    "id": "ecommerce-tiktok-shop-sellers",
+    "route": "/ecommerce/tiktok-shop-sellers",
+    "pageType": "industry",
+    "title": "TikTok Shop Sellers"
+  },
+  {
+    "id": "ecommerce-direct-to-consumer-brands",
+    "route": "/ecommerce/direct-to-consumer-brands",
+    "pageType": "industry",
+    "title": "Direct-to-Consumer Brands"
+  },
+  {
+    "id": "professional-services-consulting-firms",
+    "route": "/professional-services/consulting-firms",
+    "pageType": "industry",
+    "title": "Consulting Firms"
+  },
+  {
+    "id": "professional-services-marketing-agencies",
+    "route": "/professional-services/marketing-agencies",
+    "pageType": "industry",
+    "title": "Marketing Agencies"
+  },
+  {
+    "id": "professional-services-accounting-bookkeeping",
+    "route": "/professional-services/accounting-bookkeeping",
+    "pageType": "industry",
+    "title": "Accounting & Bookkeeping Firms"
+  },
+  {
+    "id": "professional-services-law-firms",
+    "route": "/professional-services/law-firms",
+    "pageType": "industry",
+    "title": "Law Firms"
+  },
+  {
+    "id": "professional-services-staffing-agencies",
+    "route": "/professional-services/staffing-agencies",
+    "pageType": "industry",
+    "title": "Staffing Agencies"
+  },
+  {
+    "id": "professional-services-it-services-msps",
+    "route": "/professional-services/it-services-msps",
+    "pageType": "industry",
+    "title": "IT Services & MSPs"
+  },
+  {
+    "id": "professional-services-insurance-agencies",
+    "route": "/professional-services/insurance-agencies",
+    "pageType": "industry",
+    "title": "Insurance Agencies"
+  },
+  {
+    "id": "home-services-landscaping",
+    "route": "/home-services/landscaping",
+    "pageType": "industry",
+    "title": "Landscaping Companies"
+  },
+  {
+    "id": "home-services-cleaning-services",
+    "route": "/home-services/cleaning-services",
+    "pageType": "industry",
+    "title": "Cleaning Services"
+  },
+  {
+    "id": "home-services-pest-control",
+    "route": "/home-services/pest-control",
+    "pageType": "industry",
+    "title": "Pest Control Companies"
+  },
+  {
+    "id": "home-services-restoration-water-fire",
+    "route": "/home-services/restoration-water-fire",
+    "pageType": "industry",
+    "title": "Restoration Companies"
+  },
+  {
+    "id": "home-services-security-companies",
+    "route": "/home-services/security-companies",
+    "pageType": "industry",
+    "title": "Security Companies"
+  },
+  {
+    "id": "home-services-pool-service",
+    "route": "/home-services/pool-service",
+    "pageType": "industry",
+    "title": "Pool Service Companies"
+  },
+  {
+    "id": "home-services-junk-removal",
+    "route": "/home-services/junk-removal",
+    "pageType": "industry",
+    "title": "Junk Removal Companies"
+  },
+  {
+    "id": "manufacturing-manufacturing-companies",
+    "route": "/manufacturing/manufacturing-companies",
+    "pageType": "industry",
+    "title": "Manufacturing Companies"
+  },
+  {
+    "id": "manufacturing-machine-shops",
+    "route": "/manufacturing/machine-shops",
+    "pageType": "industry",
+    "title": "Machine Shops"
+  },
+  {
+    "id": "manufacturing-metal-fabrication",
+    "route": "/manufacturing/metal-fabrication",
+    "pageType": "industry",
+    "title": "Metal Fabricators"
+  },
+  {
+    "id": "manufacturing-food-manufacturing",
+    "route": "/manufacturing/food-manufacturing",
+    "pageType": "industry",
+    "title": "Food Manufacturers"
+  },
+  {
+    "id": "manufacturing-packaging-companies",
+    "route": "/manufacturing/packaging-companies",
+    "pageType": "industry",
+    "title": "Packaging Companies"
+  },
+  {
+    "id": "manufacturing-printing-signage",
+    "route": "/manufacturing/printing-signage",
+    "pageType": "industry",
+    "title": "Printing & Sign Companies"
+  },
+  {
+    "id": "manufacturing-wholesalers-distributors",
+    "route": "/manufacturing/wholesalers-distributors",
+    "pageType": "industry",
+    "title": "Wholesalers & Distributors"
+  },
+  {
+    "id": "automotive-auto-repair",
+    "route": "/automotive/auto-repair",
+    "pageType": "industry",
+    "title": "Auto Repair Shops"
+  },
+  {
+    "id": "automotive-auto-body-collision",
+    "route": "/automotive/auto-body-collision",
+    "pageType": "industry",
+    "title": "Auto Body & Collision Shops"
+  },
+  {
+    "id": "automotive-car-dealerships",
+    "route": "/automotive/car-dealerships",
+    "pageType": "industry",
+    "title": "Auto Dealerships"
+  },
+  {
+    "id": "automotive-tire-shops",
+    "route": "/automotive/tire-shops",
+    "pageType": "industry",
+    "title": "Tire Shops"
+  },
+  {
+    "id": "automotive-mobile-mechanics",
+    "route": "/automotive/mobile-mechanics",
+    "pageType": "industry",
+    "title": "Mobile Mechanics"
+  },
+  {
+    "id": "automotive-car-wash-detailing",
+    "route": "/automotive/car-wash-detailing",
+    "pageType": "industry",
+    "title": "Car Wash & Detailing"
+  },
+  {
+    "id": "agriculture-agriculture-farming",
+    "route": "/agriculture/agriculture-farming",
+    "pageType": "industry",
+    "title": "Farms & Agricultural Businesses"
+  },
+  {
+    "id": "agriculture-ranching-livestock",
+    "route": "/agriculture/ranching-livestock",
+    "pageType": "industry",
+    "title": "Ranching & Livestock"
+  },
+  {
+    "id": "agriculture-nurseries-greenhouses",
+    "route": "/agriculture/nurseries-greenhouses",
+    "pageType": "industry",
+    "title": "Nurseries & Greenhouses"
+  },
+  {
+    "id": "agriculture-farm-equipment-services",
+    "route": "/agriculture/farm-equipment-services",
+    "pageType": "industry",
+    "title": "Farm Equipment Services"
+  },
+  {
+    "id": "agriculture-forestry-logging",
+    "route": "/agriculture/forestry-logging",
+    "pageType": "industry",
+    "title": "Forestry & Logging"
+  },
+  {
+    "id": "agriculture-agribusiness-distributors",
+    "route": "/agriculture/agribusiness-distributors",
+    "pageType": "industry",
+    "title": "Agribusiness Distributors"
+  },
+  {
+    "id": "hospitality-hotels-motels",
+    "route": "/hospitality/hotels-motels",
+    "pageType": "industry",
+    "title": "Hotels & Motels"
+  },
+  {
+    "id": "hospitality-vacation-rentals",
+    "route": "/hospitality/vacation-rentals",
+    "pageType": "industry",
+    "title": "Vacation Rental Operators"
+  },
+  {
+    "id": "hospitality-event-venues",
+    "route": "/hospitality/event-venues",
+    "pageType": "industry",
+    "title": "Event Venues"
+  },
+  {
+    "id": "hospitality-travel-agencies",
+    "route": "/hospitality/travel-agencies",
+    "pageType": "industry",
+    "title": "Travel Agencies"
+  },
+  {
+    "id": "hospitality-campgrounds-rv-parks",
+    "route": "/hospitality/campgrounds-rv-parks",
+    "pageType": "industry",
+    "title": "Campgrounds & RV Parks"
+  },
+  {
+    "id": "beauty-wellness-hair-salons-barbershops",
+    "route": "/beauty-wellness/hair-salons-barbershops",
+    "pageType": "industry",
+    "title": "Hair Salons & Barbershops"
+  },
+  {
+    "id": "beauty-wellness-nail-salons",
+    "route": "/beauty-wellness/nail-salons",
+    "pageType": "industry",
+    "title": "Nail Salons"
+  },
+  {
+    "id": "beauty-wellness-gyms-fitness-studios",
+    "route": "/beauty-wellness/gyms-fitness-studios",
+    "pageType": "industry",
+    "title": "Gyms & Fitness Studios"
+  },
+  {
+    "id": "beauty-wellness-massage-wellness",
+    "route": "/beauty-wellness/massage-wellness",
+    "pageType": "industry",
+    "title": "Massage & Wellness Studios"
+  },
+  {
+    "id": "beauty-wellness-tattoo-studios",
+    "route": "/beauty-wellness/tattoo-studios",
+    "pageType": "industry",
+    "title": "Tattoo Studios"
+  },
+  {
+    "id": "education-childcare-daycare-centers",
+    "route": "/education-childcare/daycare-centers",
+    "pageType": "industry",
+    "title": "Daycare Centers"
+  },
+  {
+    "id": "education-childcare-private-schools",
+    "route": "/education-childcare/private-schools",
+    "pageType": "industry",
+    "title": "Private Schools"
+  },
+  {
+    "id": "education-childcare-tutoring-centers",
+    "route": "/education-childcare/tutoring-centers",
+    "pageType": "industry",
+    "title": "Tutoring Centers"
+  },
+  {
+    "id": "education-childcare-vocational-training",
+    "route": "/education-childcare/vocational-training",
+    "pageType": "industry",
+    "title": "Vocational & Trade Schools"
+  },
+  {
+    "id": "education-childcare-nonprofits-community-orgs",
+    "route": "/education-childcare/nonprofits-community-orgs",
+    "pageType": "industry",
+    "title": "Nonprofits & Community Organizations"
+  },
+  {
+    "id": "real-estate-real-estate-investors",
+    "route": "/real-estate/real-estate-investors",
+    "pageType": "industry",
+    "title": "Real Estate Investors"
+  },
+  {
+    "id": "real-estate-fix-and-flip",
+    "route": "/real-estate/fix-and-flip",
+    "pageType": "industry",
+    "title": "Fix & Flip Investors"
+  },
+  {
+    "id": "real-estate-rental-property-investors",
+    "route": "/real-estate/rental-property-investors",
+    "pageType": "industry",
+    "title": "Rental Property Investors"
+  },
+  {
+    "id": "real-estate-commercial-real-estate",
+    "route": "/real-estate/commercial-real-estate",
+    "pageType": "industry",
+    "title": "Commercial Real Estate"
+  },
+  {
+    "id": "real-estate-real-estate-developers",
+    "route": "/real-estate/real-estate-developers",
+    "pageType": "industry",
+    "title": "Real Estate Developers"
+  },
+  {
+    "id": "real-estate-short-term-rental-operators",
+    "route": "/real-estate/short-term-rental-operators",
+    "pageType": "industry",
+    "title": "Short-Term Rental Operators"
+  },
+  {
+    "id": "real-estate-property-management-companies",
+    "route": "/real-estate/property-management-companies",
+    "pageType": "industry",
+    "title": "Property Management Companies"
+  }
+]

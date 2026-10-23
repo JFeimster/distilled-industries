@@ -1,0 +1,11 @@
+{
+  "name": "Distilled Industries",
+  "siteUrl": "https://industries.distilledfunding.com",
+  "previewUrl": "https://distilled-industries.vercel.app",
+  "fundingSite": "https://funding-distilled.vercel.app",
+  "solutionsSite": "https://distilled-solutions.vercel.app",
+  "acquireSite": null,
+  "toolsSite": null,
+  "allowIndexing": false,
+  "description": "Industry-specific operating context, cash-cycle guides, and practical decision tools for business operators."
+}
